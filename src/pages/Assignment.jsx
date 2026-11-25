@@ -6,6 +6,7 @@ const Assignment = () => {
     <div className='flex flex-row'>
       <Layout/>
       <div className="">
+        {/* page setup */}
         <h1> this is assignment</h1>
       </div>
       
